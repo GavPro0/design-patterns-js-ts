@@ -29,4 +29,3 @@ $ node src/{pattern-category}/code/{pattern-name}/file-to-run.js
 
 ```
 
-

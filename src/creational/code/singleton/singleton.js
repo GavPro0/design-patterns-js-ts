@@ -34,7 +34,6 @@ function appSingleton() {
 
   console.log(singleton1 === singleton2);
   console.log(singleton1 === singleton3);
-
 }
 
-appSingleton()
+appSingleton();
