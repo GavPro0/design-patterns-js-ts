@@ -1,4 +1,4 @@
-# Design Patterns - JavaScript [main]
+# Design Patterns - JavaScript [5-s]
 
 
 ## Requirements
